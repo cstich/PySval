@@ -1,4 +1,9 @@
 _build/
+build/
 dist/
+sval.egg-info/
+
+.direnv/
+.envrc
 
 __pycache__/
